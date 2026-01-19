@@ -21,57 +21,29 @@
 
 <br/>
 
-```mermaid
-mindmap
-  root((🚀 STACK))
-    🤖 AI/ML
-      GPU Acceleration
-      LLM Systems
-      Neural Networks
-      AI Agents
-      Vector DBs
-    ☁️ CLOUD
-      GCP
-      Azure
-      Kubernetes
-      Docker
-      Terraform
-    📱 MOBILE
-      Swift iOS
-      Kotlin Android
-      Flutter
-      SwiftUI
-    ⚡ BACKEND
-      TypeScript
-      Python
-      Ruby
-      Node.js
-      GraphQL
-    🎨 FRONTEND
-      React
-      Next.js
-      TailwindCSS
-```
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,py,swift,kotlin,ruby,dart&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=ts,py,swift,kotlin,ruby,dart&theme=dark&perline=6"/>
+</picture>
+<br/><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,nodejs,graphql,tailwind,html&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,graphql,tailwind,html&theme=dark&perline=6"/>
+</picture>
+<br/><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,gcp,azure,terraform,redis&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,azure,terraform,redis&theme=dark&perline=6"/>
+</picture>
+<br/><br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,git,github&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,git,github&theme=dark&perline=6"/>
+</picture>
+</div>
 
 <br/>
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=0f0f0f)
-![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=0f0f0f)
-![Swift](https://img.shields.io/badge/Swift-white?style=for-the-badge&logo=swift&logoColor=0f0f0f)
-![Kotlin](https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=0f0f0f)
-![Ruby](https://img.shields.io/badge/Ruby-white?style=for-the-badge&logo=ruby&logoColor=0f0f0f)
-![Dart](https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=dart&logoColor=0f0f0f)
-
-![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=0f0f0f)
-![Next.js](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=0f0f0f)
-![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=0f0f0f)
-![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=0f0f0f)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=kubernetes&logoColor=0f0f0f)
-![GCP](https://img.shields.io/badge/GCP-white?style=for-the-badge&logo=googlecloud&logoColor=0f0f0f)
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
