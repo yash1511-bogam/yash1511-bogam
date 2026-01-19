@@ -73,30 +73,6 @@ mindmap
 
 <br/>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,swift,kotlin,dart,ruby,html,css&theme=dark&perline=9"/>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,swift,kotlin,dart,ruby,html,css&theme=dark&perline=9"/>
-</picture>
-<br/><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,nodejs,graphql,tailwind,flutter,rails&theme=dark&perline=7"/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,graphql,tailwind,flutter,rails&theme=dark&perline=7"/>
-</picture>
-<br/><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,gcp,azure,terraform,pytorch,tensorflow&theme=dark&perline=7"/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,azure,terraform,pytorch,tensorflow&theme=dark&perline=7"/>
-</picture>
-<br/><br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,redis,git,github,vscode&theme=dark&perline=6"/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,git,github,vscode&theme=dark&perline=6"/>
-</picture>
-</div>
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
