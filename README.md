@@ -22,6 +22,7 @@
 <br/>
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#a78bfa', 'primaryTextColor': '#000000', 'primaryBorderColor': '#7c3aed', 'lineColor': '#06b6d4', 'secondaryColor': '#67e8f9', 'tertiaryColor': '#f0abfc'}}}%%
 mindmap
   root((🚀 YASHWANTH))
     💻 Languages
