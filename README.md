@@ -22,7 +22,6 @@
 <br/>
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#7c3aed', 'primaryTextColor': '#ffffff', 'secondaryColor': '#06b6d4', 'tertiaryColor': '#1a1a2e', 'primaryBorderColor': '#06b6d4', 'lineColor': '#ec4899', 'fontFamily': 'arial', 'darkMode': true, 'background': '#0d1117', 'mainBkg': '#0d1117', 'secondBkg': '#1a1a2e', 'border1': '#06b6d4', 'border2': '#7c3aed', 'note': '#1a1a2e', 'text': '#ffffff', 'nodeTextColor': '#ffffff'}}}%%
 mindmap
   root((🚀 STACK))
     🤖 AI/ML
