@@ -23,32 +23,6 @@
 
 <div align="center">
 
-```
-                                        ┌─ TypeScript  JavaScript  Python  Swift  Kotlin  Dart  Ruby  HTML  CSS
-                                        │
-                        ┌── 💻 LANGUAGES ┘
-                        │
-                        │               ┌─ React  Next.js  SwiftUI  TailwindCSS  Flutter
-                        ├── ⚛️ FRONTEND ─┘
-                        │
-                        │               ┌─ Node.js  GraphQL  REST APIs  Ruby on Rails
-                        ├── 🔧 BACKEND ──┘
-    ┌───────────────────┤
-    │                   │               ┌─ LLM Systems  GPU/CUDA  Neural Networks  Vector DBs  AI Agents
-    │  🚀 YASHWANTH     ├── 🤖 AI/ML ───┘
-    │                   │
-    └───────────────────┤               ┌─ Google Cloud  Azure  DigitalOcean  Kubernetes  Docker  Terraform
-                        ├── ☁️ CLOUD ────┘
-                        │
-                        │               ┌─ iOS Native  Android Native  Cross-platform
-                        ├── 📱 MOBILE ──┘
-                        │
-                        │               ┌─ PostgreSQL  MongoDB  Redis
-                        └── 🗄️ DATABASE ┘
-```
-
-<br/>
-
 <table>
 <tr>
 <td align="center"><strong>💻 LANGUAGES</strong></td>
