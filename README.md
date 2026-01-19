@@ -22,7 +22,7 @@
 <br/>
 
 ```mermaid
-%%{init: {'theme': 'dark'}}%%
+%%{init: {'theme': 'dark', 'themeVariables': {'primaryColor': '#7c3aed', 'primaryTextColor': '#ffffff', 'secondaryColor': '#06b6d4', 'tertiaryColor': '#1a1a2e'}}}%%
 mindmap
   root((🚀 STACK))
     🤖 AI/ML
