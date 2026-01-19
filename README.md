@@ -1,52 +1,54 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:7c3aed,100:06b6d4&height=200&section=header&text=YASHWANTH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20•%20AI/ML%20Systems%20•%20Cloud%20Architect&descSize=18&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,25:7c3aed,50:06b6d4,75:ec4899,100:0f0f0f&height=220&section=header&text=YASHWANTH&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=⚡%20FULL-STACK%20ENGINEER%20•%20AI/ML%20SYSTEMS%20•%20CLOUD%20ARCHITECT%20⚡&descSize=16&descAlignY=58"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+production+systems+at+scale+%F0%9F%9A%80;AI+Infrastructure+%7C+Cloud+Platforms+%7C+Mobile+Apps)](https://github.com/yash1511-bogam)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%A5+BUILDING+PRODUCTION+SYSTEMS+AT+SCALE;%F0%9F%A4%96+AI+INFRASTRUCTURE+%7C+%E2%98%81%EF%B8%8F+CLOUD+PLATFORMS+%7C+%F0%9F%93%B1+MOBILE;%F0%9F%9A%80+30%2B+REPOS+%7C+6%2B+LANGUAGES+%7C+ENTERPRISE+GRADE)](https://github.com/yash1511-bogam)
 
 <br/>
 
-[![Email](https://img.shields.io/badge/yashwanthbogam68@gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=06b6d4)](mailto:yashwanthbogam68@gmail.com)
-[![GitHub](https://img.shields.io/badge/yash1511--bogam-0d0d0d?style=for-the-badge&logo=github&logoColor=7c3aed)](https://github.com/yash1511-bogam)
+<a href="mailto:yashwanthbogam68@gmail.com"><img src="https://img.shields.io/badge/📧_yashwanthbogam68@gmail.com-black?style=for-the-badge&labelColor=7c3aed"/></a>
+<a href="https://github.com/yash1511-bogam"><img src="https://img.shields.io/badge/🔮_GitHub-black?style=for-the-badge&labelColor=06b6d4"/></a>
 
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=500&lines=%F0%9F%A7%A0+TECH+UNIVERSE"/>
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
-
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#7c3aed', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#06b6d4', 'lineColor': '#06b6d4', 'secondaryColor': '#0d0d0d', 'tertiaryColor': '#1a1a2e', 'background': '#0d0d0d', 'mainBkg': '#1a1a2e', 'nodeBorder': '#7c3aed', 'clusterBkg': '#1a1a2e', 'titleColor': '#06b6d4'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#7c3aed', 'primaryTextColor': '#06b6d4', 'primaryBorderColor': '#ec4899', 'lineColor': '#06b6d4', 'secondaryColor': '#1a1a2e', 'tertiaryColor': '#0f0f0f', 'background': '#0f0f0f', 'mainBkg': '#0f0f0f', 'nodeBorder': '#ec4899', 'clusterBkg': '#1a1a2e', 'titleColor': '#ffffff', 'nodeTextColor': '#ffffff'}}}%%
 mindmap
-  root((🚀 YASHWANTH))
-    🤖 AI/ML
+  root((🚀 STACK))
+    🤖 AI & ML
       GPU Acceleration
       LLM Systems
       Neural Networks
       AI Agents
       Vector DBs
-    ☁️ Cloud
+    ☁️ CLOUD
       GCP
       Azure
       Kubernetes
       Docker
       Terraform
-    📱 Mobile
+    📱 MOBILE
       Swift iOS
       Kotlin Android
       Flutter
       SwiftUI
-    ⚡ Backend
+    ⚡ BACKEND
       TypeScript
       Python
       Ruby
       Node.js
       GraphQL
-    🎨 Frontend
+    🎨 FRONTEND
       React
       Next.js
       TailwindCSS
@@ -54,18 +56,39 @@ mindmap
 
 <br/>
 
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=06b6d4)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=ec4899)
+![Swift](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift&logoColor=7c3aed)
+![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=06b6d4)
+![Ruby](https://img.shields.io/badge/Ruby-black?style=for-the-badge&logo=ruby&logoColor=ec4899)
+![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&logoColor=7c3aed)
+
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=06b6d4)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=ec4899)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=7c3aed)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=06b6d4)
+![GCP](https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=googlecloud&logoColor=ec4899)
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> System Architecture
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=%F0%9F%8F%97%EF%B8%8F+ARCHITECTURE"/>
+</div>
+
+<br/>
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#7c3aed', 'primaryTextColor': '#fff', 'primaryBorderColor': '#06b6d4', 'lineColor': '#06b6d4', 'secondaryColor': '#1a1a2e', 'tertiaryColor': '#0d0d0d', 'background': '#0d0d0d'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#7c3aed', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#06b6d4', 'lineColor': '#ec4899', 'secondaryColor': '#1a1a2e', 'tertiaryColor': '#0f0f0f', 'background': '#0f0f0f', 'textColor': '#ffffff', 'nodeTextColor': '#ffffff'}}}%%
 flowchart LR
-    subgraph C["🖥️ CLIENTS"]
-        direction TB
-        iOS["📱 iOS"]
-        Android["🤖 Android"]
-        Web["🌐 Web"]
+    subgraph C["📱 CLIENTS"]
+        iOS["iOS"]
+        Android["Android"]
+        Web["Web"]
     end
     
     subgraph G["⚡ GATEWAY"]
@@ -73,109 +96,121 @@ flowchart LR
     end
     
     subgraph S["🔮 SERVICES"]
-        direction TB
-        Auth["🔐 Auth"]
-        AI["🧠 AI Engine"]
-        Core["⚙️ Core"]
+        Auth["Auth"]
+        AI["AI Engine"]
+        Core["Core"]
     end
     
     subgraph D["💾 DATA"]
-        direction TB
-        DB[("PostgreSQL")]
+        DB[("SQL")]
         Cache[("Redis")]
-        Vec[("Vector DB")]
+        Vec[("Vector")]
     end
     
-    subgraph I["☁️ INFRA"]
-        K8s["Kubernetes"]
-        GPU["GPU Cluster"]
+    subgraph I["☁️ CLOUD"]
+        K8s["K8s"]
+        GPU["GPU"]
     end
     
     C --> G --> S --> D
     S --> I
 ```
 
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+FEATURED+PROJECTS"/>
+</div>
 
+<br/>
+
+<div align="center">
 <table>
 <tr>
-<td width="50%" align="center">
-<h3><a href="https://github.com/yash1511-bogam/neuralflow">⚡ NeuralFlow</a></h3>
-<p><strong>AI/ML Container Runtime</strong></p>
-<p>GPU acceleration • Resource management • High-performance pipelines</p>
-<img src="https://img.shields.io/badge/TypeScript-06b6d4?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-7c3aed?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/CUDA-0d0d0d?style=flat-square&logo=nvidia&logoColor=06b6d4"/>
+<td align="center" width="50%">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=300&lines=⚡+NEURALFLOW"/>
+<br/><br/>
+<a href="https://github.com/yash1511-bogam/neuralflow"><strong>AI/ML Container Runtime</strong></a>
+<br/><br/>
+<em>GPU acceleration • Resource management • High-performance</em>
+<br/><br/>
+<img src="https://img.shields.io/badge/TypeScript-06b6d4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Docker-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/CUDA-ec4899?style=flat-square"/>
 </td>
-<td width="50%" align="center">
-<h3><a href="https://github.com/yash1511-bogam/ai-memory-platform">🧠 AI Memory Platform</a></h3>
-<p><strong>Enterprise LLM Memory Layer</strong></p>
-<p>Production-ready • Enterprise security • Scalable</p>
-<img src="https://img.shields.io/badge/TypeScript-06b6d4?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-7c3aed?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vector_DB-0d0d0d?style=flat-square&logoColor=06b6d4"/>
+<td align="center" width="50%">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=300&lines=🧠+AI+MEMORY+PLATFORM"/>
+<br/><br/>
+<a href="https://github.com/yash1511-bogam/ai-memory-platform"><strong>Enterprise LLM Memory</strong></a>
+<br/><br/>
+<em>Production-ready • Enterprise security • Scalable</em>
+<br/><br/>
+<img src="https://img.shields.io/badge/TypeScript-06b6d4?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/VectorDB-ec4899?style=flat-square"/>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
-<h3><a href="https://github.com/yash1511-bogam/cloudvault">☁️ CloudVault</a></h3>
-<p><strong>GCP Storage Management</strong></p>
-<p>Modern UI • Secure • Intuitive</p>
-<img src="https://img.shields.io/badge/TypeScript-06b6d4?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/GCP-7c3aed?style=flat-square&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=06b6d4"/>
+<td align="center" width="50%">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=2000&pause=500&color=EC4899&center=true&vCenter=true&width=300&lines=☁️+CLOUDVAULT"/>
+<br/><br/>
+<a href="https://github.com/yash1511-bogam/cloudvault"><strong>GCP Storage Management</strong></a>
+<br/><br/>
+<em>Modern UI • Secure • Intuitive interface</em>
+<br/><br/>
+<img src="https://img.shields.io/badge/TypeScript-06b6d4?style=flat-square"/>
+<img src="https://img.shields.io/badge/GCP-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/React-ec4899?style=flat-square"/>
 </td>
-<td width="50%" align="center">
-<h3><a href="https://github.com/yash1511-bogam/webos">🌐 WebOS</a></h3>
-<p><strong>Browser Operating System</strong></p>
-<p>Glassmorphism • Real-time • System management</p>
-<img src="https://img.shields.io/badge/JavaScript-06b6d4?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-7c3aed?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web_APIs-0d0d0d?style=flat-square&logoColor=06b6d4"/>
+<td align="center" width="50%">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=300&lines=🌐+WEBOS"/>
+<br/><br/>
+<a href="https://github.com/yash1511-bogam/webos"><strong>Browser Operating System</strong></a>
+<br/><br/>
+<em>Glassmorphism • Real-time • System management</em>
+<br/><br/>
+<img src="https://img.shields.io/badge/JavaScript-06b6d4?style=flat-square"/>
+<img src="https://img.shields.io/badge/CSS3-7c3aed?style=flat-square"/>
+<img src="https://img.shields.io/badge/WebAPIs-ec4899?style=flat-square"/>
 </td>
 </tr>
 </table>
-
-<br/>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30"> Journey
-
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#7c3aed', 'primaryTextColor': '#ffffff', 'cScale0': '#06b6d4', 'cScale1': '#7c3aed', 'cScale2': '#ec4899'}}}%%
-timeline
-    title 🚀 Evolution
-    section 🌱 Foundation
-        Web Dev : HTML, CSS, JavaScript, Node.js
-    section 📈 Growth  
-        Cloud & Mobile : GCP, Azure, Kubernetes, Swift, Kotlin
-    section 🔮 Mastery
-        AI/ML & Enterprise : GPU Runtimes, LLM Systems, SaaS Platforms
-```
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=500&lines=📈+EVOLUTION"/>
+</div>
 
 <br/>
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#7c3aed', 'primaryTextColor': '#ffffff', 'cScale0': '#06b6d4', 'cScale1': '#7c3aed', 'cScale2': '#ec4899', 'cScaleLabel0': '#ffffff', 'cScaleLabel1': '#ffffff', 'cScaleLabel2': '#ffffff'}}}%%
+timeline
+    title 🔮 JOURNEY
+    section 🌱 FOUNDATION
+        Web Development : HTML, CSS, JavaScript, Node.js
+    section 📈 GROWTH  
+        Cloud & Mobile : GCP, Azure, K8s, Swift, Kotlin
+    section ⚡ MASTERY
+        AI/ML & Enterprise : GPU Runtimes, LLMs, SaaS
+```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-### 📊 `30+ Repos` • `6+ Languages` • `Full-Stack → AI/ML`
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=💼+OPEN+TO+OPPORTUNITIES;🤖+AI+INFRASTRUCTURE;☁️+CLOUD+PLATFORMS;🚀+ENGINEERING+LEADERSHIP"/>
 
-<br/>
+<br/><br/>
 
-**Open to opportunities in AI Infrastructure, Cloud Platforms & Engineering Leadership**
+<a href="mailto:yashwanthbogam68@gmail.com">
+<img src="https://img.shields.io/badge/📧_HIRE_ME-ec4899?style=for-the-badge&labelColor=0f0f0f"/>
+</a>
 
-<br/>
+<br/><br/>
 
-[![Email](https://img.shields.io/badge/📧_CONTACT_ME-7c3aed?style=for-the-badge)](mailto:yashwanthbogam68@gmail.com)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:7c3aed,100:06b6d4&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,25:ec4899,50:7c3aed,75:06b6d4,100:0f0f0f&height=120&section=footer"/>
 
 </div>
