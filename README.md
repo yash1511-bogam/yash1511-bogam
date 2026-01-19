@@ -1,146 +1,181 @@
 <div align="center">
 
-# Yashwanth 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:7c3aed,100:06b6d4&height=200&section=header&text=YASHWANTH&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20•%20AI/ML%20Systems%20•%20Cloud%20Architect&descSize=18&descAlignY=55"/>
 
-### Full-Stack Engineer • AI/ML Systems • Cloud Infrastructure • Mobile Development
+<br/>
 
-Building production-grade systems that scale to millions of users
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+production+systems+at+scale+%F0%9F%9A%80;AI+Infrastructure+%7C+Cloud+Platforms+%7C+Mobile+Apps)](https://github.com/yash1511-bogam)
 
-[![Email](https://img.shields.io/badge/Email-yashwanthbogam68@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashwanthbogam68@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-yash1511--bogam-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yash1511-bogam)
+<br/>
+
+[![Email](https://img.shields.io/badge/yashwanthbogam68@gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=06b6d4)](mailto:yashwanthbogam68@gmail.com)
+[![GitHub](https://img.shields.io/badge/yash1511--bogam-0d0d0d?style=for-the-badge&logo=github&logoColor=7c3aed)](https://github.com/yash1511-bogam)
 
 </div>
 
----
+<br/>
 
-## 🧠 Tech Universe
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#6366f1', 'primaryTextColor': '#fff', 'primaryBorderColor': '#818cf8', 'lineColor': '#818cf8', 'secondaryColor': '#1e1b4b', 'tertiaryColor': '#312e81'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#7c3aed', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#06b6d4', 'lineColor': '#06b6d4', 'secondaryColor': '#0d0d0d', 'tertiaryColor': '#1a1a2e', 'background': '#0d0d0d', 'mainBkg': '#1a1a2e', 'nodeBorder': '#7c3aed', 'clusterBkg': '#1a1a2e', 'titleColor': '#06b6d4'}}}%%
 mindmap
-  root((Yashwanth))
-    AI/ML
+  root((🚀 YASHWANTH))
+    🤖 AI/ML
       GPU Acceleration
       LLM Systems
       Neural Networks
       AI Agents
-    Cloud
+      Vector DBs
+    ☁️ Cloud
       GCP
       Azure
       Kubernetes
       Docker
-    Mobile
+      Terraform
+    📱 Mobile
       Swift iOS
       Kotlin Android
       Flutter
-    Backend
+      SwiftUI
+    ⚡ Backend
       TypeScript
       Python
       Ruby
       Node.js
-    Frontend
+      GraphQL
+    🎨 Frontend
       React
-      SwiftUI
       Next.js
+      TailwindCSS
 ```
 
----
+<br/>
 
-## 🏗️ System Architecture I Build
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> System Architecture
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#6366f1', 'primaryTextColor': '#fff', 'primaryBorderColor': '#818cf8', 'lineColor': '#818cf8'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#7c3aed', 'primaryTextColor': '#fff', 'primaryBorderColor': '#06b6d4', 'lineColor': '#06b6d4', 'secondaryColor': '#1a1a2e', 'tertiaryColor': '#0d0d0d', 'background': '#0d0d0d'}}}%%
 flowchart LR
-    subgraph Client["📱 Client Layer"]
-        iOS[iOS Swift]
-        Android[Android Kotlin]
-        Web[React/Next.js]
+    subgraph C["🖥️ CLIENTS"]
+        direction TB
+        iOS["📱 iOS"]
+        Android["🤖 Android"]
+        Web["🌐 Web"]
     end
     
-    subgraph API["⚡ API Gateway"]
-        Gateway[Load Balancer]
+    subgraph G["⚡ GATEWAY"]
+        LB["Load Balancer"]
     end
     
-    subgraph Services["🔧 Microservices"]
-        Auth[Auth Service]
-        AI[AI/ML Engine]
-        Core[Core Logic]
+    subgraph S["🔮 SERVICES"]
+        direction TB
+        Auth["🔐 Auth"]
+        AI["🧠 AI Engine"]
+        Core["⚙️ Core"]
     end
     
-    subgraph Data["💾 Data Layer"]
-        DB[(PostgreSQL)]
-        Cache[(Redis)]
-        Vector[(Vector DB)]
+    subgraph D["💾 DATA"]
+        direction TB
+        DB[("PostgreSQL")]
+        Cache[("Redis")]
+        Vec[("Vector DB")]
     end
     
-    subgraph Infra["☁️ Cloud Infrastructure"]
-        K8s[Kubernetes]
-        GPU[GPU Cluster]
+    subgraph I["☁️ INFRA"]
+        K8s["Kubernetes"]
+        GPU["GPU Cluster"]
     end
     
-    Client --> API
-    API --> Services
-    Services --> Data
-    Services --> Infra
+    C --> G --> S --> D
+    S --> I
 ```
 
----
+<br/>
 
-## 🚀 Featured Projects
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Projects
+
+<table>
+<tr>
+<td width="50%" align="center">
+<h3><a href="https://github.com/yash1511-bogam/neuralflow">⚡ NeuralFlow</a></h3>
+<p><strong>AI/ML Container Runtime</strong></p>
+<p>GPU acceleration • Resource management • High-performance pipelines</p>
+<img src="https://img.shields.io/badge/TypeScript-06b6d4?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-7c3aed?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/CUDA-0d0d0d?style=flat-square&logo=nvidia&logoColor=06b6d4"/>
+</td>
+<td width="50%" align="center">
+<h3><a href="https://github.com/yash1511-bogam/ai-memory-platform">🧠 AI Memory Platform</a></h3>
+<p><strong>Enterprise LLM Memory Layer</strong></p>
+<p>Production-ready • Enterprise security • Scalable</p>
+<img src="https://img.shields.io/badge/TypeScript-06b6d4?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-7c3aed?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector_DB-0d0d0d?style=flat-square&logoColor=06b6d4"/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<h3><a href="https://github.com/yash1511-bogam/cloudvault">☁️ CloudVault</a></h3>
+<p><strong>GCP Storage Management</strong></p>
+<p>Modern UI • Secure • Intuitive</p>
+<img src="https://img.shields.io/badge/TypeScript-06b6d4?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-7c3aed?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=06b6d4"/>
+</td>
+<td width="50%" align="center">
+<h3><a href="https://github.com/yash1511-bogam/webos">🌐 WebOS</a></h3>
+<p><strong>Browser Operating System</strong></p>
+<p>Glassmorphism • Real-time • System management</p>
+<img src="https://img.shields.io/badge/JavaScript-06b6d4?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-7c3aed?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web_APIs-0d0d0d?style=flat-square&logoColor=06b6d4"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="30"> Journey
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#6366f1'}}}%%
-flowchart TB
-    subgraph AI["🤖 AI/ML Infrastructure"]
-        NF[<a href='https://github.com/yash1511-bogam/neuralflow'>NeuralFlow</a><br/>GPU Container Runtime]
-        AIM[<a href='https://github.com/yash1511-bogam/ai-memory-platform'>AI Memory Platform</a><br/>LLM Memory Layer]
-    end
-    
-    subgraph Cloud["☁️ Cloud Platforms"]
-        CV[<a href='https://github.com/yash1511-bogam/cloudvault'>CloudVault</a><br/>GCP Storage GUI]
-        WOS[<a href='https://github.com/yash1511-bogam/webos'>WebOS</a><br/>Browser OS]
-    end
-```
-
----
-
-## 💼 Technical Expertise
-
-| Domain | Stack |
-|:------:|:------|
-| 🤖 **AI/ML** | GPU Acceleration, CUDA, LLMs, AI Agents, Vector DBs |
-| ☁️ **Cloud** | GCP, Azure, Docker, Kubernetes, Terraform |
-| 📱 **Mobile** | Swift, Kotlin, Flutter, SwiftUI |
-| 🔧 **Backend** | TypeScript, Python, Ruby, Node.js, GraphQL |
-| 🎨 **Frontend** | React, Next.js, TailwindCSS |
-
----
-
-## 📈 Journey
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#6366f1'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#7c3aed', 'primaryTextColor': '#ffffff', 'cScale0': '#06b6d4', 'cScale1': '#7c3aed', 'cScale2': '#ec4899'}}}%%
 timeline
-    title Development Journey
-    section Foundation
-        Web Development : HTML, CSS, JavaScript
-        Backend : Node.js, Python
-    section Growth
-        Cloud : GCP, Azure, Kubernetes
-        Mobile : Swift, Kotlin
-    section Expertise
-        AI/ML : GPU Runtimes, LLM Systems
-        Enterprise : SaaS Platforms, Microservices
+    title 🚀 Evolution
+    section 🌱 Foundation
+        Web Dev : HTML, CSS, JavaScript, Node.js
+    section 📈 Growth  
+        Cloud & Mobile : GCP, Azure, Kubernetes, Swift, Kotlin
+    section 🔮 Mastery
+        AI/ML & Enterprise : GPU Runtimes, LLM Systems, SaaS Platforms
 ```
 
----
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-### 📊 30+ Repositories | 6+ Languages | Full-Stack to AI/ML
+### 📊 `30+ Repos` • `6+ Languages` • `Full-Stack → AI/ML`
+
+<br/>
 
 **Open to opportunities in AI Infrastructure, Cloud Platforms & Engineering Leadership**
 
-[![Email](https://img.shields.io/badge/Reach_Out-yashwanthbogam68@gmail.com-6366f1?style=flat-square&logo=gmail&logoColor=white)](mailto:yashwanthbogam68@gmail.com)
+<br/>
+
+[![Email](https://img.shields.io/badge/📧_CONTACT_ME-7c3aed?style=for-the-badge)](mailto:yashwanthbogam68@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:7c3aed,100:06b6d4&height=100&section=footer"/>
 
 </div>
