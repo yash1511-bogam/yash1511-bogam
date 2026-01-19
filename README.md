@@ -4,28 +4,28 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2500&pause=800&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%A5+BUILDING+PRODUCTION+SYSTEMS+AT+SCALE;%F0%9F%A4%96+AI+INFRASTRUCTURE+%7C+%E2%98%81%EF%B8%8F+CLOUD+PLATFORMS+%7C+%F0%9F%93%B1+MOBILE;%F0%9F%9A%80+30%2B+REPOS+%7C+6%2B+LANGUAGES+%7C+ENTERPRISE+GRADE)](https://github.com/yash1511-bogam)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%94%A5+BUILDING+PRODUCTION+SYSTEMS+AT+SCALE;%F0%9F%A4%96+AI+INFRASTRUCTURE+%7C+%E2%98%81%EF%B8%8F+CLOUD+PLATFORMS+%7C+%F0%9F%93%B1+MOBILE;%F0%9F%9A%80+30%2B+REPOS+%7C+6%2B+LANGUAGES+%7C+ENTERPRISE+GRADE)](https://github.com/yash1511-bogam)
 
 <br/>
 
-<a href="mailto:yashwanthbogam68@gmail.com"><img src="https://img.shields.io/badge/📧_yashwanthbogam68@gmail.com-black?style=for-the-badge&labelColor=7c3aed"/></a>
-<a href="https://github.com/yash1511-bogam"><img src="https://img.shields.io/badge/🔮_GitHub-black?style=for-the-badge&labelColor=06b6d4"/></a>
+<a href="mailto:yashwanthbogam68@gmail.com"><img src="https://img.shields.io/badge/📧_yashwanthbogam68@gmail.com-white?style=for-the-badge&labelColor=7c3aed"/></a>
+<a href="https://github.com/yash1511-bogam"><img src="https://img.shields.io/badge/🔮_GitHub-white?style=for-the-badge&labelColor=06b6d4"/></a>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=500&lines=%F0%9F%A7%A0+TECH+UNIVERSE"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%A7%A0+TECH+UNIVERSE"/>
 </div>
 
 <br/>
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#7c3aed', 'primaryTextColor': '#06b6d4', 'primaryBorderColor': '#ec4899', 'lineColor': '#06b6d4', 'secondaryColor': '#1a1a2e', 'tertiaryColor': '#0f0f0f', 'background': '#0f0f0f', 'mainBkg': '#0f0f0f', 'nodeBorder': '#ec4899', 'clusterBkg': '#1a1a2e', 'titleColor': '#ffffff', 'nodeTextColor': '#ffffff'}}}%%
+%%{init: {'theme': 'dark'}}%%
 mindmap
   root((🚀 STACK))
-    🤖 AI & ML
+    🤖 AI/ML
       GPU Acceleration
       LLM Systems
       Neural Networks
@@ -58,32 +58,32 @@ mindmap
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=06b6d4)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=ec4899)
-![Swift](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=swift&logoColor=7c3aed)
-![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=kotlin&logoColor=06b6d4)
-![Ruby](https://img.shields.io/badge/Ruby-black?style=for-the-badge&logo=ruby&logoColor=ec4899)
-![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart&logoColor=7c3aed)
+![TypeScript](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=typescript&logoColor=0f0f0f)
+![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=0f0f0f)
+![Swift](https://img.shields.io/badge/Swift-white?style=for-the-badge&logo=swift&logoColor=0f0f0f)
+![Kotlin](https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&logoColor=0f0f0f)
+![Ruby](https://img.shields.io/badge/Ruby-white?style=for-the-badge&logo=ruby&logoColor=0f0f0f)
+![Dart](https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=dart&logoColor=0f0f0f)
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=06b6d4)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&logoColor=ec4899)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=7c3aed)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=06b6d4)
-![GCP](https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=googlecloud&logoColor=ec4899)
+![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=0f0f0f)
+![Next.js](https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=nextdotjs&logoColor=0f0f0f)
+![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=0f0f0f)
+![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=0f0f0f)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=kubernetes&logoColor=0f0f0f)
+![GCP](https://img.shields.io/badge/GCP-white?style=for-the-badge&logo=googlecloud&logoColor=0f0f0f)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=%F0%9F%8F%97%EF%B8%8F+ARCHITECTURE"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%8F%97%EF%B8%8F+ARCHITECTURE"/>
 </div>
 
 <br/>
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#7c3aed', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#06b6d4', 'lineColor': '#ec4899', 'secondaryColor': '#1a1a2e', 'tertiaryColor': '#0f0f0f', 'background': '#0f0f0f', 'textColor': '#ffffff', 'nodeTextColor': '#ffffff'}}}%%
+%%{init: {'theme': 'dark'}}%%
 flowchart LR
     subgraph C["📱 CLIENTS"]
         iOS["iOS"]
@@ -119,7 +119,7 @@ flowchart LR
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+FEATURED+PROJECTS"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+FEATURED+PROJECTS"/>
 </div>
 
 <br/>
@@ -134,9 +134,9 @@ flowchart LR
 <br/><br/>
 <em>GPU acceleration • Resource management • High-performance</em>
 <br/><br/>
-<img src="https://img.shields.io/badge/TypeScript-06b6d4?style=flat-square"/>
-<img src="https://img.shields.io/badge/Docker-7c3aed?style=flat-square"/>
-<img src="https://img.shields.io/badge/CUDA-ec4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/TypeScript-06b6d4?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-7c3aed?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/CUDA-ec4899?style=flat-square&logoColor=white"/>
 </td>
 <td align="center" width="50%">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=2000&pause=500&color=06B6D4&center=true&vCenter=true&width=300&lines=🧠+AI+MEMORY+PLATFORM"/>
@@ -145,9 +145,9 @@ flowchart LR
 <br/><br/>
 <em>Production-ready • Enterprise security • Scalable</em>
 <br/><br/>
-<img src="https://img.shields.io/badge/TypeScript-06b6d4?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLMs-7c3aed?style=flat-square"/>
-<img src="https://img.shields.io/badge/VectorDB-ec4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/TypeScript-06b6d4?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs-7c3aed?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/VectorDB-ec4899?style=flat-square&logoColor=white"/>
 </td>
 </tr>
 <tr>
@@ -158,9 +158,9 @@ flowchart LR
 <br/><br/>
 <em>Modern UI • Secure • Intuitive interface</em>
 <br/><br/>
-<img src="https://img.shields.io/badge/TypeScript-06b6d4?style=flat-square"/>
-<img src="https://img.shields.io/badge/GCP-7c3aed?style=flat-square"/>
-<img src="https://img.shields.io/badge/React-ec4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/TypeScript-06b6d4?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-7c3aed?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-ec4899?style=flat-square&logoColor=white"/>
 </td>
 <td align="center" width="50%">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=300&lines=🌐+WEBOS"/>
@@ -169,9 +169,9 @@ flowchart LR
 <br/><br/>
 <em>Glassmorphism • Real-time • System management</em>
 <br/><br/>
-<img src="https://img.shields.io/badge/JavaScript-06b6d4?style=flat-square"/>
-<img src="https://img.shields.io/badge/CSS3-7c3aed?style=flat-square"/>
-<img src="https://img.shields.io/badge/WebAPIs-ec4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/JavaScript-06b6d4?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-7c3aed?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebAPIs-ec4899?style=flat-square&logoColor=white"/>
 </td>
 </tr>
 </table>
@@ -180,13 +180,13 @@ flowchart LR
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=500&lines=📈+EVOLUTION"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=📈+EVOLUTION"/>
 </div>
 
 <br/>
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#7c3aed', 'primaryTextColor': '#ffffff', 'cScale0': '#06b6d4', 'cScale1': '#7c3aed', 'cScale2': '#ec4899', 'cScaleLabel0': '#ffffff', 'cScaleLabel1': '#ffffff', 'cScaleLabel2': '#ffffff'}}}%%
+%%{init: {'theme': 'dark'}}%%
 timeline
     title 🔮 JOURNEY
     section 🌱 FOUNDATION
@@ -206,7 +206,7 @@ timeline
 <br/><br/>
 
 <a href="mailto:yashwanthbogam68@gmail.com">
-<img src="https://img.shields.io/badge/📧_HIRE_ME-ec4899?style=for-the-badge&labelColor=0f0f0f"/>
+<img src="https://img.shields.io/badge/📧_HIRE_ME-white?style=for-the-badge&labelColor=ec4899"/>
 </a>
 
 <br/><br/>
