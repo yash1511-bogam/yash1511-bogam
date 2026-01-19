@@ -21,25 +21,76 @@
 
 <br/>
 
+```mermaid
+mindmap
+  root((🚀 YASHWANTH))
+    💻 Languages
+      TypeScript
+      JavaScript
+      Python
+      Swift
+      Kotlin
+      Dart
+      Ruby
+      HTML
+      CSS
+    ⚛️ Frontend
+      React
+      Next.js
+      SwiftUI
+      TailwindCSS
+      Flutter
+    🔧 Backend
+      Node.js
+      GraphQL
+      REST APIs
+      Ruby on Rails
+    🤖 AI/ML
+      LLM Systems
+      GPU/CUDA
+      Neural Networks
+      Vector DBs
+      AI Agents
+      PyTorch
+      TensorFlow
+    ☁️ Cloud
+      Google Cloud
+      Azure
+      DigitalOcean
+      Kubernetes
+      Docker
+      Terraform
+    📱 Mobile
+      iOS Native
+      Android Native
+      Cross-platform
+    🗄️ Databases
+      PostgreSQL
+      MongoDB
+      Redis
+```
+
+<br/>
+
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,py,swift,kotlin,ruby,dart&theme=dark&perline=6"/>
-  <img src="https://skillicons.dev/icons?i=ts,py,swift,kotlin,ruby,dart&theme=dark&perline=6"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,swift,kotlin,dart,ruby,html,css&theme=dark&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,swift,kotlin,dart,ruby,html,css&theme=dark&perline=9"/>
 </picture>
 <br/><br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,nodejs,graphql,tailwind,html&theme=dark&perline=6"/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,graphql,tailwind,html&theme=dark&perline=6"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,nodejs,graphql,tailwind,flutter,rails&theme=dark&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,graphql,tailwind,flutter,rails&theme=dark&perline=7"/>
 </picture>
 <br/><br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,gcp,azure,terraform,redis&theme=dark&perline=6"/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,azure,terraform,redis&theme=dark&perline=6"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,kubernetes,gcp,azure,terraform,pytorch,tensorflow&theme=dark&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,azure,terraform,pytorch,tensorflow&theme=dark&perline=7"/>
 </picture>
 <br/><br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,git,github&theme=dark&perline=6"/>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,git,github&theme=dark&perline=6"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,redis,git,github,vscode&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,git,github,vscode&theme=dark&perline=6"/>
 </picture>
 </div>
 
