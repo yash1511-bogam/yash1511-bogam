@@ -16,11 +16,6 @@ I'm a developer who enjoys building things with AI, cloud platforms, and modern 
 
 **Databases:** PostgreSQL, MongoDB, Redis
 
-## Projects
-
-- [**CodexMonitor**](https://github.com/yash1511-bogam/CodexMonitor) — An app to monitor the Codex situation `TypeScript`
-- [**SaaS Idea Validator**](https://github.com/yash1511-bogam/saas-idea-validator) — Validate SaaS ideas quickly `Python`
-
 ## Get in touch
 
-📫 yashwanthbogam68@gmail.com
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yashwanthbogam68@gmail.com)
