@@ -1,21 +1,35 @@
-# Hey, I'm Yashwanth 👋
+```
+██╗   ██╗ █████╗ ███████╗██╗  ██╗██╗    ██╗ █████╗ ███╗   ██╗████████╗██╗  ██╗
+╚██╗ ██╔╝██╔══██╗██╔════╝██║  ██║██║    ██║██╔══██╗████╗  ██║╚══██╔══╝██║  ██║
+ ╚████╔╝ ███████║███████╗███████║██║ █╗ ██║███████║██╔██╗ ██║   ██║   ███████║
+  ╚██╔╝  ██╔══██║╚════██║██╔══██║██║███╗██║██╔══██║██║╚██╗██║   ██║   ██╔══██║
+   ██║   ██║  ██║███████║██║  ██║╚███╔███╔╝██║  ██║██║ ╚████║   ██║   ██║  ██║
+   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
+```
 
-I'm a developer who enjoys building things with AI, cloud platforms, and modern web technologies.
+Building things at the intersection of AI, systems, and the web.
 
-## What I work with
+---
 
-**Languages:** TypeScript, JavaScript, Python, Swift, Kotlin, Dart
+#### now
 
-**Frontend:** React, Next.js, Tailwind CSS, Flutter
+- 🔧 [aurora-os](https://github.com/yash1511-bogam/aurora-os) — reactive, agentic OS · C/Rust/WASM
+- 🗜️ [zipmount](https://github.com/yash1511-bogam/zipmount) — mount ZIPs as virtual directories · Python/FUSE
+- 🛡️ [AIOpsShield](https://github.com/yash1511-bogam/AIOpsShield) — AI governance & EU AI Act compliance · Vue
+- 🤖 [llm-forge](https://github.com/yash1511-bogam/llm-forge) — LLM tooling & experimentation
 
-**Backend:** Node.js, GraphQL
+#### stack
 
-**AI/ML:** PyTorch, TensorFlow, LLMs
+`TypeScript` `Python` `Rust` `Kotlin` `Swift`  
+`Next.js` `React` `Tailwind` `GSAP` `Node.js`  
+`PyTorch` `Docker` `Kubernetes` `GCP` `Vercel`
 
-**Cloud & Infra:** GCP, Docker, Kubernetes, Terraform
+#### links
 
-**Databases:** PostgreSQL, MongoDB, Redis
+[![Website](https://img.shields.io/badge/yashbogam.me-000?style=flat&logo=vercel&logoColor=white)](https://yashbogam.me)
+[![X](https://img.shields.io/badge/@0x9c23D-000?style=flat&logo=x&logoColor=white)](https://x.com/0x9c23D)
+[![Email](https://img.shields.io/badge/hello@yashbogam.me-000?style=flat&logo=gmail&logoColor=white)](mailto:hello@yashbogam.me)
 
-## Get in touch
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yashwanthbogam68@gmail.com)
+```bash
+$ curl -sL yashbogam.me/resume.sh | bash
+```
