@@ -13,10 +13,8 @@ Building things at the intersection of AI, systems, and the web.
 
 #### now
 
-- 🔧 [aurora-os](https://github.com/yash1511-bogam/aurora-os) — reactive, agentic OS · C/Rust/WASM
-- 🗜️ [zipmount](https://github.com/yash1511-bogam/zipmount) — mount ZIPs as virtual directories · Python/FUSE
-- 🛡️ [AIOpsShield](https://github.com/yash1511-bogam/AIOpsShield) — AI governance & EU AI Act compliance · Vue
-- 🤖 [llm-forge](https://github.com/yash1511-bogam/llm-forge) — LLM tooling & experimentation
+- 🎬 [Retrace](https://retraceai.tech) — execution replay engine for AI agents: record, replay, fork & share runs · Next.js/Fastify/Postgres
+- 🛡️ [TrustLoop](https://trustloop.yashbogam.me) — incident operations platform for AI product teams: detect, AI-triage & publish status updates · Next.js/Prisma/SQS
 
 #### stack
 
